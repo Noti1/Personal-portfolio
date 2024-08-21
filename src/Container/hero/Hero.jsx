@@ -7,7 +7,7 @@ const Hero = () => {
     <div className="hero section__padding" >
       <div className="hero__contents">
         <div className="hero__contents-intro">
-        <h1 className='h1-hero'>Hello, I'm Ramzi ッ</h1>
+        <h1 className='h1-hero'>Hello, I'm Mohamed Noti ッ</h1>
         <p className='p-hero'>Ready to infuse your projects with <strong>creativity and functionality</strong>, I'm here to offer my <strong>Freelance Web Development Services</strong>. Let's turn your ideas into captivating online experiences! 💻✨</p>
         <div className='div-hero'>Currently looking for a Freelance project to start ☁️</div>
         </div>
